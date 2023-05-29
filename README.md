@@ -1,5 +1,9 @@
 ## SQL_project
 
+NOTE!
+- will need to replace stripe_publishable_key and stripe_secret_key with your own Stripe API keys.
+
+
 Design the database schema:
 - Products: product_id, name, description, price, category_id, image_url
 - Categories: category_id, name
